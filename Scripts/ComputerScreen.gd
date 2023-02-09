@@ -29,7 +29,7 @@ func _on_Button_pressed():
 	elif randomNumber == 2:
 		emailText = "no"
 	elif randomNumber == 3:
-		emailText = "ha, no"
+		emailText = "haha, no"
 	elif randomNumber == 4:
 		emailText = "still no"
 		
